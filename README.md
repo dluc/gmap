@@ -8,8 +8,8 @@ coordinates.
 INSTALL
 =======
 
-Downalod the code, then edit index.php to put your API key.
-You can get a key using the API console at 
+Download the code, then edit index.php to put your API key.
+You can get a key using the API console here:
 
     https://code.google.com/apis/console
 
